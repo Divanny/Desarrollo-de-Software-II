@@ -1,0 +1,17 @@
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Impuestos\obj\Debug\net6.0-windows\Impuestos.csproj.AssemblyReference.cache
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Impuestos\obj\Debug\net6.0-windows\Impuestos.Form1.resources
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Impuestos\obj\Debug\net6.0-windows\Impuestos.csproj.GenerateResource.cache
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Impuestos\obj\Debug\net6.0-windows\Impuestos.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Impuestos\obj\Debug\net6.0-windows\Impuestos.AssemblyInfoInputs.cache
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Impuestos\obj\Debug\net6.0-windows\Impuestos.AssemblyInfo.cs
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Impuestos\obj\Debug\net6.0-windows\Impuestos.csproj.CoreCompileInputs.cache
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Impuestos\bin\Debug\net6.0-windows\Impuestos.exe
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Impuestos\bin\Debug\net6.0-windows\Impuestos.deps.json
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Impuestos\bin\Debug\net6.0-windows\Impuestos.runtimeconfig.json
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Impuestos\bin\Debug\net6.0-windows\Impuestos.dll
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Impuestos\bin\Debug\net6.0-windows\ref\Impuestos.dll
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Impuestos\bin\Debug\net6.0-windows\Impuestos.pdb
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Impuestos\obj\Debug\net6.0-windows\Impuestos.dll
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Impuestos\obj\Debug\net6.0-windows\ref\Impuestos.dll
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Impuestos\obj\Debug\net6.0-windows\Impuestos.pdb
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Impuestos\obj\Debug\net6.0-windows\Impuestos.genruntimeconfig.cache
