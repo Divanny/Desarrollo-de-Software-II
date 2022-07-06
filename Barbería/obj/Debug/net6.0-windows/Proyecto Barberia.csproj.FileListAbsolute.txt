@@ -1,0 +1,20 @@
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Proyecto Barberia\bin\Debug\net6.0-windows\Proyecto Barberia.exe
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Proyecto Barberia\bin\Debug\net6.0-windows\Proyecto Barberia.deps.json
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Proyecto Barberia\bin\Debug\net6.0-windows\Proyecto Barberia.runtimeconfig.json
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Proyecto Barberia\bin\Debug\net6.0-windows\Proyecto Barberia.dll
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Proyecto Barberia\bin\Debug\net6.0-windows\Proyecto Barberia.pdb
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Proyecto Barberia\obj\Debug\net6.0-windows\Proyecto Barberia.csproj.AssemblyReference.cache
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Proyecto Barberia\obj\Debug\net6.0-windows\Proyecto_Barberia.Properties.Resources.resources
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Proyecto Barberia\obj\Debug\net6.0-windows\Proyecto Barberia.csproj.GenerateResource.cache
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Proyecto Barberia\obj\Debug\net6.0-windows\Proyecto Barberia.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Proyecto Barberia\obj\Debug\net6.0-windows\Proyecto Barberia.AssemblyInfoInputs.cache
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Proyecto Barberia\obj\Debug\net6.0-windows\Proyecto Barberia.AssemblyInfo.cs
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Proyecto Barberia\obj\Debug\net6.0-windows\Proyecto Barberia.csproj.CoreCompileInputs.cache
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Proyecto Barberia\obj\Debug\net6.0-windows\Proyecto Barberia.dll
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Proyecto Barberia\obj\Debug\net6.0-windows\refint\Proyecto Barberia.dll
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Proyecto Barberia\obj\Debug\net6.0-windows\Proyecto Barberia.pdb
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Proyecto Barberia\obj\Debug\net6.0-windows\Proyecto Barberia.genruntimeconfig.cache
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Proyecto Barberia\obj\Debug\net6.0-windows\ref\Proyecto Barberia.dll
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Proyecto Barberia\obj\Debug\net6.0-windows\Proyecto_Barberia.Inicio.resources
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Proyecto Barberia\obj\Debug\net6.0-windows\Proyecto_Barberia.Registrar.resources
+D:\OneDrive - INTEC\INTEC\Laboratorio Desarrollo de Software II\Proyecto Barberia\obj\Debug\net6.0-windows\Proyecto_Barberia.Registrar_Empleados.resources
